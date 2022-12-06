@@ -8,3 +8,5 @@ Ce Projet est un exemple pour pratiquer github
 ## ajouter des collaboraleurs
 ## Pull Request
 ## Merge
+## Cloner un depot depuis github
+## Push & Pull
